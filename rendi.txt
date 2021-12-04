@@ -1,0 +1,15 @@
+Langkah - langkah untuk Add, Commit, Push
+
+1. git clone <nama_url>
+2. git add . 
+3. git commit -m "message"
+4. git push origin main
+5. Cek di repositori web
+
+Langkah - langkah untuk membuat cabang / branch baru :
+
+1. git checkout -b nama_branch
+2. kerjakan di branch masing-masing
+3. git add .
+4. git commit -m "message"
+5. git push origin nama_branch
